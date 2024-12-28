@@ -1,4 +1,4 @@
-<addon id="script.preloader" name="[COLOR firebrick]Preloader[/COLOR]" version="3.6.9" provider-name="DutchGreen">
+<addon id="script.preloader" name="[COLOR firebrick]Preloader[/COLOR]" version="3.7.0" provider-name="DutchGreen">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="xbmc.python" version="3.0.0" />
@@ -20,7 +20,9 @@
         <website>https://github.com/DutchSkiddie/script.preloader</website>
         <email></email>
         <source></source>
-        <news>v3.6.9b (20/05/2024)
+        <news>v3.7.0b (28/12/2024)
+            [RE-PRE-RELEASE (unofficial)] Fixes repository.ivarbrandt 404 error.
+            v3.7.0b (28/12/2024)
             [RE-PRE-RELEASE (official)] Unleashed; Google Drive support added.
             v3.6.9a (20/05/2024)
             [RE-PRE-RELEASE (unofficial)] Rewrote the entire thing, since it didn't fit the user conditions. Now allows for easier customization for the use of custom configurations.
